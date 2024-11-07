@@ -46,9 +46,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: https://blackwallpaperhd.com/wp-content/uploads/2023/02/star16-576x1024.jpg
+about_profile_image: https://i.pinimg.com/736x/dc/79/d5/dc79d540fa8893fa50cab0b821760de4.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rachel and I'm a senior in high school. I strive to help animals in shelters and build a animal sanctuary one day. I love sports of any kind but basketball and track have a special place in my heart. I love learning when I'm intrested in the topic and am a fast learner.
+  Hi, my name's Rachel and I'm a senior in high school. I strive to help animals in shelters and build an animal sanctuary one day. I love sports of any kind but basketball and track have a special place in my heart. I love learning when I'm intrested in the topic and am a fast learner.
   
 
   I am most skilled in: basic tech and training dogs
@@ -58,7 +58,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Super cool project
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
