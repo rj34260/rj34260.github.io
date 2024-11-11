@@ -12,15 +12,15 @@ email: rachel.jonesdestiny@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: n/a
 github_username:  rj34260
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+# dribbble_username: n/a
+# facebook_username: n/a
+# flickr_username: n/a
 instagram_username: n/a
 linkedin_username: n/a
 # xing_username: jekyll
