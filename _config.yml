@@ -69,8 +69,9 @@ content:
           #   icon: fab fa-star
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: > 
-        I've done a couple of projects over the past 5 years. When I was around 13-14 I helped a family build their entertainment system including their entertainment stand. After I built the stand I hooked up their two TVs and connected their devices to their wifi. Everyone thought setting up that system was difficult but it seemed like second nature to me. I've done a couple of projects at the non-profit camp. We installed turf into this sloppy hill, cleared tree debris from their streets, built a volleyball pit, and did a little landscaping from time to time. I've also applied to help volunteer at an animal shelter.
         description: | # this will include new lines to allow paragraphs
+                I've done a couple of projects over the past 5 years. When I was around 13-14 I helped a family build their entertainment system including their entertainment stand. After I built the stand I hooked up their two TVs and connected their devices to their wifi. Everyone thought setting up that system was difficult but it seemed like second nature to me. I've done a couple of projects at the non-profit camp. We installed turf into this sloppy hill, cleared tree debris from their streets, built a volleyball pit, and did a little landscaping from time to time. I've also applied to help volunteer at an animal shelter.
+
 
 
   - title: Experience # Title for the section
