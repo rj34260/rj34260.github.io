@@ -51,42 +51,47 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rachel and I'm a senior in high school. I strive to help animals in shelters and build an animal sanctuary one day. I love sports of any kind but basketball and track have a special place in my heart. I love learning when I'm intrested in the topic and am a fast learner.
   
 
-  I am most skilled in: basic tech and training dogs
+  I am most skilled in: Basic tech and training dogs
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super cool project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: Projects I've done!
+        link: 
+        # link_text: 
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          - title: 
+            icon: fab fa-star
+            url: 
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
+          #   icon: fab fa-star
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is a pretty cool app! 
+        quote: > I've done a couple of projects over the past 5 years. When I was around 13-14 I helped a family build their entertainment system including their entertainment stand. After I built the stand I hooked up their two TVs and connected their devices to their wifi. 
+        Everyone thought setting up that system was difficult but it seemed like second nature to me. I've done a couple of projects at the non-profit camp. We installed turf into this sloppy hill, cleared tree debris from their streets, built a volleyball pit, and did a little 
+        landscaping from time to time. I've also applied to help volunteer at an animal shelter.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: YMCA
+        link: https://ymcaokc.org/
+        # link_text: YMCA.com
+        sub_title: Lifeguard
+        caption: October 2024 - Present
+        title: Shiloh Adventures
+        link: https://shilohadventures.org/
+        # link_text: shiloh.com
+        sub_title: Summer Camp Counselor 
+        caption: May 2023 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Looking for opportunities to help the people and animals in my community
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+           I enjoy helping all around. No matter if that's kids, teens, adults, or animals. I love building/creating things. I believe if we all help each other that our coummunties will get stronger amd strive.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
