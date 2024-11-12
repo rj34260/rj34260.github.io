@@ -1,7 +1,7 @@
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
-<text style="color: red">ERROR</text>
+<text style="color: "#FF69B4">ERROR</text>
 
 # Content configuration version
 version: 2
@@ -64,10 +64,10 @@ content:
         # link_text: 
         additional_links:
           - title: 
-            icon: fa-solid fa-star
+            icon: <i class="fa-solid fa-star"></i>
             url: 
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fa-solid fa-star
+          #   icon: <i class="fa-solid fa-heart"></i>
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: > 
         description: | # this will include new lines to allow paragraphs
