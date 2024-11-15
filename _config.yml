@@ -33,8 +33,8 @@ youtube_username: n/a
 # Additional icon links
 additional_links:
 - title: n/a
-  icon: fas fa-globe
-  url: 
+  icon: <i class="fa-solid fa-star"></i>
+  url: https://hfcwarriorsokc.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
