@@ -63,8 +63,8 @@ content:
         link: 
         # link_text: 
         additional_links:
-          - title: 
-            icon: fa-solid fa-star
+          - title: Rachel's remuse
+            icon: fab fa-star
             url: 
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: <i class="fa-solid fa-heart"></i>
