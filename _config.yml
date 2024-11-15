@@ -80,7 +80,7 @@ content:
     content:
       - layout: left
   - title: YMCA
-        link: https://ymcaokc.org/
+  link: https://ymcaokc.org/
         # link_text: YMCA.com
         sub_title: Lifeguard
         caption: October 2024 - Present
