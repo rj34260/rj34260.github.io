@@ -63,7 +63,7 @@ content:
         link: 
         # link_text: 
         additional_links:
-          - title: Rachel's remuse
+          - title: Rachel's Résumé
             icon: far fa-star
             url: 
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
