@@ -81,20 +81,20 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: left, center
        
         title: YMCA
         link: https://ymcaokc.org/
         # link_text: ymca.com
         sub_title: Lifeguard
         caption: October 2024 - Present
-        title: Shiloh Adventures
-        link: https://shilohadventures.org/
-        # link_text: shiloh.com
-        sub_title: Summer Camp Counselor 
-        caption: May 2023 - Present
-        quote: >
-          Looking for opportunities to help the people and animals in my community
+         title: Shiloh Adventures
+         link: https://shilohadventures.org/
+         # link_text: shiloh.com
+         sub_title: Summer Camp Counselor 
+         caption: May 2023 - Present
+         quote: >
+           Looking for opportunities to help the people and animals in my community
         description: | # this will include new lines to allow paragraphs
            I enjoy helping all around. No matter if that's kids, teens, adults, or animals. I love building/creating things. If we all help each other our communities will get stronger and strive.
   - title: Education # Title for the section
