@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: https://i.pinimg.com/736x/dc/79/d5/dc79d540fa8893fa50cab0b821760de4.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rachel and I'm a senior in high school. I strive to help animals in shelters and build an animal sanctuary one day. I love sports of any kind but basketball and track have a special place in my heart. I love learning and am a fast learner.
+  Hi, my name's Rachel and I'm a senior in high school. I strive to help animals in shelters and build an animal sanctuary one day. I love building/creating things. I love sports of any kind but basketball and track have a special place in my heart. I love learning and am a fast learner.
   
 
   I am most skilled in: Basic tech and training dogs
@@ -74,7 +74,7 @@ content:
           #   url: Link to project (https://shilohadventures.org/)
         quote: > 
         description: | # this will include new lines to allow paragraphs
-                I've done a couple of projects over the past 5 years. When I was around 13-14 I helped a family build their entertainment system including their entertainment stand. After I built the stand I hooked up their two TVs and connected their devices to their wifi. Everyone thought setting up that system was difficult but it seemed like second nature to me. I've done a couple of projects at the non-profit camp. We installed turf into this sloppy hill, cleared tree debris from their streets, built a volleyball pit, and did a little landscaping from time to time. I've also applied to help volunteer at an animal shelter.
+                I've done a couple of projects over the past 5 years. When I was around 13-14 I helped a family build their entertainment system including their entertainment stand. After I built the stand I hooked up their two TVs and connected their devices to their wifi. Everyone thought setting up that system was difficult but it seemed like second nature to me. I've done a couple of projects at a non-profit camp called Shiloh Adventures. We installed turf into this sloppy hill, cleared tree debris from their streets, built a volleyball pit, and did a little landscaping from time to time. I've also applied to help volunteer at an animal shelter. (edit)title: Shiloh Adventures link: https://shilohadventures.org/ # link_text: shiloh.com sub_title: Summer Camp Counselor caption: May 2023 - Present
 
 
 
@@ -88,15 +88,10 @@ content:
         # link_text: ymca.com
         sub_title: Lifeguard
         caption: October 2024 - Present
-         title: Shiloh Adventures
-         link: https://shilohadventures.org/
-         # link_text: shiloh.com
-         sub_title: Summer Camp Counselor 
-         caption: May 2023 - Present
-         quote: >
-           Looking for opportunities to help the people and animals in my community
+        quote: >
+          Looking for opportunities to help the people and animals in my community
         description: | # this will include new lines to allow paragraphs
-           I enjoy helping all around. No matter if that's kids, teens, adults, or animals. I love building/creating things. If we all help each other our communities will get stronger and strive.
+           I enjoy helping all around. No matter if that's kids, teens, adults, or animals.  If we all help each other our communities will get stronger and strive.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
