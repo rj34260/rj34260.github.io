@@ -64,10 +64,10 @@ content:
         # link_text: 
         additional_links:
           - title: Rachel's remuse
-            icon: fab fa-star
+            icon: far fa-star
             url: 
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-star
+          #   icon: far fa-star
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: > 
         description: | # this will include new lines to allow paragraphs
