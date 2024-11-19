@@ -82,6 +82,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+       
         title: YMCA
         link: https://ymcaokc.org/
         # link_text: YMCA.com
