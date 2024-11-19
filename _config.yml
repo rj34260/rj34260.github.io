@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: https://i.pinimg.com/736x/dc/79/d5/dc79d540fa8893fa50cab0b821760de4.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rachel and I'm a senior in high school. I strive to help animals in shelters and build an animal sanctuary one day. I love sports of any kind but basketball and track have a special place in my heart. I love learning when I'm intrested in the topic and am a fast learner.
+  Hi, my name's Rachel and I'm a senior in high school. I strive to help animals in shelters and build an animal sanctuary one day. I love sports of any kind but basketball and track have a special place in my heart. I love learning and am a fast learner.
   
 
   I am most skilled in: Basic tech and training dogs
@@ -63,12 +63,12 @@ content:
         link: 
         # link_text: 
         additional_links:
-          - title: Rachel's Résumé
+          - title: Shiloh Adventures
             icon: far fa-star
             url: 
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          # - title:  project page (https://shilohadventures.org/)
           #   icon: far fa-star
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          #   url: Link to project (https://shilohadventures.org/)
         quote: > 
         description: | # this will include new lines to allow paragraphs
                 I've done a couple of projects over the past 5 years. When I was around 13-14 I helped a family build their entertainment system including their entertainment stand. After I built the stand I hooked up their two TVs and connected their devices to their wifi. Everyone thought setting up that system was difficult but it seemed like second nature to me. I've done a couple of projects at the non-profit camp. We installed turf into this sloppy hill, cleared tree debris from their streets, built a volleyball pit, and did a little landscaping from time to time. I've also applied to help volunteer at an animal shelter.
@@ -84,27 +84,27 @@ content:
         # link_text: YMCA.com
         sub_title: Lifeguard
         caption: October 2024 - Present
+       
         title: Shiloh Adventures
         link: https://shilohadventures.org/
         # link_text: shiloh.com
         sub_title: Summer Camp Counselor 
         caption: May 2023 - Present
         quote: >
-          Looking for opportunities to help the people and animals in my community
+    Looking for opportunities to help the people and animals in my community
         description: | # this will include new lines to allow paragraphs
-           I enjoy helping all around. No matter if that's kids, teens, adults, or animals. I love building/creating things. I believe if we all help each other that our coummunties will get stronger amd strive.
+           I enjoy helping all around. No matter if that's kids, teens, adults, or animals. I love building/creating things. If we all help each other our communities will get stronger and strive.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Will Rogers Elementary - Epic Charter
+        caption: 2011 - present
+        sub_title: Junior/Senior
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        I started in Will Rogers Elementary since Pre-K but then transferred to homeschooling with Epic Charter Schools for my 5th grade.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
+        
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
