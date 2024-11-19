@@ -16,6 +16,7 @@ website: www.github.com/sproogen/resume-theme
 darkmode: false
 
 # Text color (red/orange/yellow)
+textcolor: red
 
 # Social links
 twitter_username: n/a
