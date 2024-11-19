@@ -33,7 +33,7 @@ youtube_username: n/a
 # Additional icon links
 additional_links:
 - title: n/a
-  icon: 
+  icon: fas fa-basketball-ball
   url: https://hfcwarriorsokc.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
