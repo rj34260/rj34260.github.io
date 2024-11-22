@@ -115,7 +115,7 @@ content:
       
       Look at this cool image!  
     icon: fas fa-camera-retro	
-            url: https://cdnfl01.viewbug.com/media/mediafiles/2020/08/17/90575222_large.jpg
+    url: https://cdnfl01.viewbug.com/media/mediafiles/2020/08/17/90575222_large.jpg
 
 # Footer
 footer_show_references: true
