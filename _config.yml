@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: https://i.pinimg.com/736x/dc/79/d5/dc79d540fa8893fa50cab0b821760de4.jpg
+about_profile_image: https://photos.fife.usercontent.google.com/pw/AP1GczPIkDfEXO9C0wfWebpFP5pHfg1T6brFJXzxKCavgYNphMAXffuCO2Dl=w736-h736-s-no-gm?authuser=1
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rachel and I'm a senior in high school. I strive to help animals in shelters and build an animal sanctuary one day. I love building/creating things. I love sports of any kind but basketball and track have a special place in my heart. I love learning and am a fast learner.
   
@@ -112,10 +112,10 @@ content:
       - Mind Puzzles
       - Fitness
       - Baking
-      
-      Look at this cool image!  
-    icon: fas fa-camera-retro	
-    url: https://cdnfl01.viewbug.com/media/mediafiles/2020/08/17/90575222_large.jpg
+    additional_links:
+- title: Look at this cool image!  
+  icon: fas fa-camera-retro
+  url: https://cdnfl01.viewbug.com/media/mediafiles/2020/08/17/90575222_large.jpg
 
 # Footer
 footer_show_references: true
