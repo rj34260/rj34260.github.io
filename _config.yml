@@ -68,7 +68,7 @@ content:
         additional_links:
           - title: Shiloh Adventures
             icon: far fa-star
-            url: 
+            url: https://shilohadventures.org/
           # - title:  project page (https://shilohadventures.org/)
           #   icon: far fa-star
           #   url: Link to project (https://shilohadventures.org/)
@@ -89,33 +89,33 @@ content:
         sub_title: Lifeguard
         caption: October 2024 - Present
         quote: >
-          Looking for opportunities to help the people and animals in my community
+        Looking for opportunities to help the people and animals in my community
         description: | # this will include new lines to allow paragraphs
            I enjoy helping all around. No matter if that's kids, teens, adults, or animals.  If we all help each other our communities will get stronger and strive.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Will Rogers Elementary - Epic Charter
+        title: Will Rogers Elementary - Epic Charter Schools
         caption: 2011 - present
         sub_title: Junior/Senior
         quote: >
-             I started in Will Rogers Elementary since Pre-K but then transferred to homeschooling with Epic Charter Schools for my 5th grade.
         description: | # this will include new lines to allow paragraphs
         
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I started in Will Rogers Elementary since Pre-K but then transferred to homeschooling with Epic Charter Schools before 5th grade started.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in animal welfare and sports, some of my other interests and hobbies are:
+      - Watching tv
+      - Mind Puzzles
+      - Fitness
+      - Baking
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    Look at this cool image!  
+      icon: fas fa-camera-retro	
+            url: https://cdnfl01.viewbug.com/media/mediafiles/2020/08/17/90575222_large.jpg
 
 # Footer
 footer_show_references: true
